@@ -16,4 +16,4 @@ Outstanding questions and needs:
 
 Whiteboarding inspiration: [So have you heard of the blockchain?][1]
 
-[1]https://twitter.com/chrishunt/status/977237397611077632
+[1]: https://twitter.com/chrishunt/status/977237397611077632
